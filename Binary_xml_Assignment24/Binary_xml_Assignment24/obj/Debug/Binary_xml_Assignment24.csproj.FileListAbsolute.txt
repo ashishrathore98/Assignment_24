@@ -1,0 +1,11 @@
+D:\SimpliLearn Course\Day21\Binary_xml_Assignment24\Binary_xml_Assignment24\bin\Debug\Binary_xml_Assignment24.exe.config
+D:\SimpliLearn Course\Day21\Binary_xml_Assignment24\Binary_xml_Assignment24\bin\Debug\Binary_xml_Assignment24.exe
+D:\SimpliLearn Course\Day21\Binary_xml_Assignment24\Binary_xml_Assignment24\bin\Debug\Binary_xml_Assignment24.pdb
+D:\SimpliLearn Course\Day21\Binary_xml_Assignment24\Binary_xml_Assignment24\bin\Debug\Assignment24_Employee.dll
+D:\SimpliLearn Course\Day21\Binary_xml_Assignment24\Binary_xml_Assignment24\bin\Debug\Assignment24_Employee.pdb
+D:\SimpliLearn Course\Day21\Binary_xml_Assignment24\Binary_xml_Assignment24\obj\Debug\Binary_xml_Assignment24.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Day21\Binary_xml_Assignment24\Binary_xml_Assignment24\obj\Debug\Binary_xml_Assignment24.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Day21\Binary_xml_Assignment24\Binary_xml_Assignment24\obj\Debug\Binary_xml_Assignment24.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Day21\Binary_xml_Assignment24\Binary_xml_Assignment24\obj\Debug\Binary_xml_Assignment24.csproj.CopyComplete
+D:\SimpliLearn Course\Day21\Binary_xml_Assignment24\Binary_xml_Assignment24\obj\Debug\Binary_xml_Assignment24.exe
+D:\SimpliLearn Course\Day21\Binary_xml_Assignment24\Binary_xml_Assignment24\obj\Debug\Binary_xml_Assignment24.pdb

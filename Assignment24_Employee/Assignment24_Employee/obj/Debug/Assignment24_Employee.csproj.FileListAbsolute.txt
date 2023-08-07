@@ -1,0 +1,6 @@
+D:\SimpliLearn Course\Day21\Assignment24_Employee\Assignment24_Employee\bin\Debug\Assignment24_Employee.dll
+D:\SimpliLearn Course\Day21\Assignment24_Employee\Assignment24_Employee\bin\Debug\Assignment24_Employee.pdb
+D:\SimpliLearn Course\Day21\Assignment24_Employee\Assignment24_Employee\obj\Debug\Assignment24_Employee.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Day21\Assignment24_Employee\Assignment24_Employee\obj\Debug\Assignment24_Employee.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Day21\Assignment24_Employee\Assignment24_Employee\obj\Debug\Assignment24_Employee.dll
+D:\SimpliLearn Course\Day21\Assignment24_Employee\Assignment24_Employee\obj\Debug\Assignment24_Employee.pdb
